@@ -18,3 +18,9 @@
  - to install TS locally type npm install typescript into the terminal
  - npx tsc is the comand for the TS compiler and you can point to which file you want to compile 
  - with npx init -y you can make a empty JSon Package 
+  ## Primitives
+
+These are the basic JS type, number, string, boolean. In TS the need to be lowercase to start to not point to an object. 
+
+ex: let userName: string;
+userName = 'Kyle'; 
